@@ -1,2 +1,2 @@
 # cjunochorus
-Juno60 Implementation in c++.
+Juno Chorus Implementation in c++.
